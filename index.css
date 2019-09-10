@@ -106,7 +106,7 @@ li{
 }
 
 #Middle {
-  background-image: linear-gradient(to right bottom ,rgba(9, 0, 0, 0.6),rgba(9, 0, 0, 0.6)),url(images/business.jpeg);
+  background-image: linear-gradient(to right bottom ,rgba(9, 0, 0, 0.6),rgba(9, 0, 0, 0.6)),url(business.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -211,7 +211,7 @@ font-size: 15px;
 text-align: center;
 color: white;
 position: relative;
-background-image: linear-gradient(to left bottom,#274254f5, #274254d7),url(images/partner.jpeg);
+background-image: linear-gradient(to left bottom,#274254f5, #274254d7),url(partner.jpeg);
 background-size:cover;
 height: 360px;
 width:25%;
@@ -245,7 +245,7 @@ width:25%;
   transform: translateX(10px);
 }
 .cool {
-  background-image: url(images/meeting.jpeg);
+  background-image: url(meeting.jpeg);
   height: 350px;
   width:25%;
 }
@@ -330,7 +330,7 @@ top: 5px;
 
 
 #section-two{
-  background-image:linear-gradient(to left bottom,#30495ae5, #30495ae5),url(images/picture.jpeg);
+  background-image:linear-gradient(to left bottom,#30495ae5, #30495ae5),url(picture.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -348,7 +348,7 @@ top: 5px;
 }
 }
 .background{
-  background-image:url(images/business.jpeg);
+  background-image:url(business.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
